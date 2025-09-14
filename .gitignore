@@ -18,11 +18,9 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
-logs/*
-!logs/sent.csv
-!logs/dashboard.html
-!logs/.gitkeep
 .pytest_cache/
 .mypy_cache/
 .pytype/
 .ipynb_checkpoints/
+logs/*
+.github/*
