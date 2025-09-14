@@ -1,0 +1,10 @@
+Hi $name,
+
+This is a generic message sent by my mail tool. You can reply directly to this email.
+
+$custom1
+
+Attachments are included if applicable.
+
+Best regards,
+$from_name

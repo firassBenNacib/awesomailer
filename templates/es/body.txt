@@ -1,0 +1,10 @@
+Hola $name,
+
+Le escribo para compartir un mensaje genérico. Puede responder a este correo.
+
+$custom1
+
+Si corresponde, se incluyen archivos adjuntos.
+
+Saludos cordiales,
+$from_name

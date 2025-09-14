@@ -1,0 +1,10 @@
+Bonjour $name,
+
+Je vous écris pour partager un message générique. Vous pouvez répondre à cette adresse.
+
+$custom1
+
+Le cas échéant, des pièces jointes sont incluses.
+
+Cordialement,
+$from_name
